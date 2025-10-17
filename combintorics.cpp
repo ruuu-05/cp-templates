@@ -49,34 +49,15 @@ ll C(ll n, ll r) {
     return P(n, r) * factInv[r] % MOD;
 }
 
-void ruuu() {
-
-
-}
-//s(0)=6,-->even
-//s(1)=3-->odd
-//s(2)=9+1
-//s(3)=5
-//s(4)=15+1
-//s(5)=8
-//s(6)=4
-//s(7)=4
-//s(8)=2
-//s(9)=1
 int main() {
     fastio();
     init();
 int tc;//cin>>tc;
 tc = 1;
 while(tc--){
-
-ruuu();
-
-//cout<<P(89,85);
-//cout<<nCr(200000,3);
- 
 }
   return 0;
  
 }
+
 // 
